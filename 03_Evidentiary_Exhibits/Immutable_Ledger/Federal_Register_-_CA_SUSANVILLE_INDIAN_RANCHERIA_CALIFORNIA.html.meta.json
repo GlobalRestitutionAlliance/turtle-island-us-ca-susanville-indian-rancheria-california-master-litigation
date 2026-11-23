@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=CA+SUSANVILLE+INDIAN+RANCHERIA+CALIFORNIA",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=CA+SUSANVILLE+INDIAN+RANCHERIA+CALIFORNIA",
+  "title": "Federal Register - CA SUSANVILLE INDIAN RANCHERIA CALIFORNIA",
+  "fetched_at": "2026-11-23T18:02:05.507956Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 213449,
+  "sha256": "9031546b727e9e9605de00895f21c1362478195154bdaee4df58c88b4e621ffe",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
